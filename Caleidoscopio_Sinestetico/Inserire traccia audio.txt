@@ -1,0 +1,31 @@
+Inserire in questa cartella la traccia audio che si vuole processare
+Nome ed estensione della traccia devono corrispondere a quelli riportati all'interno dello sketch.
+
+Per questo progetto abbiamo utilizzato le seguenti tracce:
+
+Album - Ghosts V: Together
+1 - Letting go While Holding On (V_1)
+2 - Together (V_2)
+3 - Out In The Open (V_3)
+4 - With Faith (V_4)
+5 - Apart (V_5)
+6 - Your Touch (V_6)
+7 - Hope We Can Again (V_7)
+8 - Still Right Here (V_8)
+
+Album - Ghosts VI: Locusts
+1 - The Cursed Clock (VI_1)
+2 - Around Every Corner (VI_2)
+3 - The Worriment Waltz (VI_3)
+4 - Run Like Hell (VI_4)
+5 - When It Happens (Don't Mind Me) (VI_5)
+6 - Another Crashed Car (VI_6)
+7 - Temp Fix (VI_7)
+8 - Trust Fades (VI_8)
+9 - A Really Bad Night (VI_9)
+10 - Your New Normal (VI_10)
+11 - Just Breathe (VI_11)
+12 - Right Behind You (VI_12)
+13 - Turn This Off Please (VI_13)
+14 - So Tired (VI_14)
+15 - Almost Dawn (VI_15)
