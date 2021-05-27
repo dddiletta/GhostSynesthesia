@@ -1,0 +1,3 @@
+In questa cartella inserire l'insieme di immagini che si vogliono processare
+Tutte le immagini devono essere rinominate con "nome"+numero progressivo+.jpg/.png/..
+Il nome e l'estensione delle immagini devono corrispondere a quelli riportati all'interno dello sketch
